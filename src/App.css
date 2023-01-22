@@ -1,0 +1,48 @@
+.Cardstyle{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.filtrstyle{
+  display: flex;
+    justify-content: space-between;
+    height: 45px;
+}
+
+.frstyle{
+  display: flex;
+}
+
+#contact {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.171);
+}
+#contact h2 {
+  text-align: center;
+}
+
+#contact form {
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto;
+  width: 50%;
+}
+#contact form > button {
+  align-self: center;
+  margin-top: 15px;
+}
+#contact form > button:hover {
+  color: white;
+  background-color: black;
+}
+
+.home{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.home{
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theodysseyonline.com%2Fmakes-good-movie&psig=AOvVaw0RuCdL_8nyHnN4xxf5Jwc6&ust=1673631714788000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCAsZHKwvwCFQAAAAAdAAAAABAI');
+}

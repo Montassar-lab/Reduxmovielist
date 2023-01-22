@@ -1,0 +1,5 @@
+export const HANDLEDELETE = 'HANDLEDELETE'
+export const HANDLEADD = 'HANDLEADD'
+export const CHANGETITRE = 'CHANGETITRE'
+export const CHANGETOILE = 'CHANGETOILE'
+export const HANDLERESET = 'HANDLERESET'
